@@ -1,0 +1,10 @@
+[
+    
+    {"name": "David Debriden", "status": "Application Completed.", "message": "David's application has been completed", "time": "30m", "seen": false},
+    {"name": "Terry Tradeline", "status": "Application Completed.", "message": "Terry's application has been completed", "time": "2h", "seen": false},
+    {"name": "Larry Latepayer", "status": "Identity Not Verified.", "message": "Larry's application has been completed", "time": "3h", "seen": true},
+    {"name": "Larry Latepayer", "status": "Customer Record Generated Successfully.", "message": "Larry's customer record has been generated successfully.", "time": "1d", "seen": true},
+    {"name": "Dennis Deficit", "status": "Identity Resolution Override Request Approved.", "message": "Denis' identity resolution override request has been approved.", "time": "1d", "seen": true},
+    {"name": "E Qualifier", "status": "Application Completed.", "message": "E's Application has been completed", "time": "5d", "seen": true},
+    {"name": "E Qualifier", "status": "Trade Vehicle Added.", "message": "E's Trade vehicle has been added", "time": "1w", "seen": true}
+  ]
